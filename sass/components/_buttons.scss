@@ -1,0 +1,26 @@
+.btn {
+    transition: all 0.4s linear;
+}
+.header-btn{
+    padding: 9px 33px 11px 32px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 24px;
+}
+.header-btn:hover {
+    border: 2px solid #fff;
+    border-radius: 2.4rem;
+    background: #fff;
+    color: #002529;
+}
+.ready-btn {
+    box-sizing: border-box;
+    border: 2px solid rgb(1, 47, 52);
+    border-radius: 2.4rem;
+    padding: 11px 33px 11px 32px;
+    color: #012F34;
+}
+.ready-btn:hover{
+    color: #FFFFFF;
+    background: #012F34;
+}
+
